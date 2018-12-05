@@ -1,0 +1,180 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="BAND">
+    <display-name lang="pt">BAND</display-name>
+    <icon src="http://www.lineup.tv.br/canais/esporteinterativobr.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="GLOBO SP">
+    <display-name lang="pt">GLOBO SP</display-name>
+    <icon src="http://www.lineup.tv.br/canais/tvcamara-guarulhos.gif|http://www.lineup.tv.br/canais/tvalesp.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="RECORD TV">
+    <display-name lang="pt">RECORD TV</display-name>
+    <icon src="http://www.lineup.tv.br/canais/recordtv-itapoan.gif|http://www.lineup.tv.br/canais/recordtv.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="REDE TV">
+    <display-name lang="pt">REDE TV</display-name>
+    <icon src="http://www.lineup.tv.br/canais/redemassa.gif|http://www.lineup.tv.br/canais/sbt.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="SBT">
+    <display-name lang="pt">SBT</display-name>
+    <icon src="http://www.lineup.tv.br/canais/tvlitoralpanorama.gif|http://www.lineup.tv.br/canais/cultura.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="COMBATE">
+    <display-name lang="pt">COMBATE</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="SPORTV">
+    <display-name lang="pt">SPORTV</display-name>
+    <icon src="http://www.lineup.tv.br/canais/bis.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="SPORTV 2">
+    <display-name lang="pt">SPORTV 2</display-name>
+    <icon src="http://www.lineup.tv.br/canais/tvcamara.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="SPORTV 3">
+    <display-name lang="pt">SPORTV 3</display-name>
+    <icon src="http://www.lineup.tv.br/canais/premiere6.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <programme start="20181204000000 -0400" stop="20181204010000 -0400" channel="COMBATE">
+    <title lang="pt">Best of Pride</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181204010000 -0400" stop="20181204020000 -0400" channel="COMBATE">
+    <title lang="pt">Sessão Combate</title>
+    <sub-title lang="pt">Nascidos Para O Combate: Maurício Shogun</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181204020000 -0400" stop="20181204030000 -0400" channel="COMBATE">
+    <title lang="pt">Sessão Combate</title>
+    <sub-title lang="pt">Viver Para Lutar: Kung Fu (China)</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181204030000 -0400" stop="20181204050000 -0400" channel="COMBATE">
+    <title lang="pt">Arena Grappling</title>
+    <sub-title lang="pt">Etapa Rio de Janeiro</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181204050000 -0400" stop="20181204060000 -0400" channel="COMBATE">
+    <title lang="pt">Best of Pride</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181204060000 -0400" stop="20181204070000 -0400" channel="COMBATE">
+    <title lang="pt">UFC Unleashed</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181204070000 -0400" stop="20181204080000 -0400" channel="COMBATE">
+    <title lang="pt">Sessão Combate</title>
+    <sub-title lang="pt">Nascidos Para O Combate: Maurício Shogun</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181204080000 -0400" stop="20181204090000 -0400" channel="COMBATE">
+    <title lang="pt">Sessão Combate</title>
+    <sub-title lang="pt">Viver Para Lutar: Kung Fu (China)</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181204090000 -0400" stop="20181204110000 -0400" channel="COMBATE">
+    <title lang="pt">Hora do MMA</title>
+    <sub-title lang="pt">Lidell x Ortiz3</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181204110000 -0400" stop="20181204113000 -0400" channel="COMBATE">
+    <title lang="pt">UFC Series</title>
+    <sub-title lang="pt">Ufc's Greatest Fights: Shogun x Henderson</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181204113000 -0400" stop="20181204120000 -0400" channel="COMBATE">
+    <title lang="pt">UFC Series</title>
+    <sub-title lang="pt">Ufc's Greatest Fights: Aldo x Mendes Ep. 2</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181204120000 -0400" stop="20181204130000 -0400" channel="COMBATE">
+    <title lang="pt">UFC Unleashed</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181204130000 -0400" stop="20181204163000 -0400" channel="COMBATE">
+    <title lang="pt">UFC 222</title>
+    <sub-title lang="pt">Cyborg x Kunitskaya</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181204163000 -0400" stop="20181204171500 -0400" channel="COMBATE">
+    <title lang="pt">The Ultimate Fighter 28: Heavy Hitters</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181204171500 -0400" stop="20181204180000 -0400" channel="COMBATE">
+    <title lang="pt">The Ultimate Fighter 28: Heavy Hitters</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181204180000 -0400" stop="20181204200000 -0400" channel="COMBATE">
+    <title lang="pt">Hora do MMA</title>
+    <sub-title lang="pt">Lidell x Ortiz3</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181204200000 -0400" stop="20181204210000 -0400" channel="COMBATE">
+    <title lang="pt">UFC Unleashed</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181204210000 -0400" stop="20181204213000 -0400" channel="COMBATE">
+    <title lang="pt">UFC Series</title>
+    <sub-title lang="pt">UFC Origenes: Brian Ortega</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181204213000 -0400" stop="20181204220000 -0400" channel="COMBATE">
+    <title lang="pt">UFC Series</title>
+    <sub-title lang="pt">UFC Fight Flashback</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181204220000 -0400" stop="20181205000000 -0400" channel="COMBATE">
+    <title lang="pt">Hora do MMA</title>
+    <sub-title lang="pt">Brave 18</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+</tv>
