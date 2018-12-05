@@ -2,177 +2,526 @@
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
   <channel id="BAND">
     <display-name lang="pt">BAND</display-name>
-    <icon src="http://www.lineup.tv.br/canais/esporteinterativobr.gif" />
-    <url>http://www.lineup.net.br</url>
+    <url>http://www.netcombo.com.br</url>
   </channel>
   <channel id="GLOBO SP">
     <display-name lang="pt">GLOBO SP</display-name>
-    <icon src="http://www.lineup.tv.br/canais/tvcamara-guarulhos.gif|http://www.lineup.tv.br/canais/tvalesp.gif" />
-    <url>http://www.lineup.net.br</url>
+    <url>http://www.netcombo.com.br</url>
   </channel>
   <channel id="RECORD TV">
     <display-name lang="pt">RECORD TV</display-name>
-    <icon src="http://www.lineup.tv.br/canais/recordtv-itapoan.gif|http://www.lineup.tv.br/canais/recordtv.gif" />
-    <url>http://www.lineup.net.br</url>
+    <url>http://www.netcombo.com.br</url>
   </channel>
-  <channel id="REDE TV">
-    <display-name lang="pt">REDE TV</display-name>
-    <icon src="http://www.lineup.tv.br/canais/redemassa.gif|http://www.lineup.tv.br/canais/sbt.gif" />
-    <url>http://www.lineup.net.br</url>
+  <channel id="Rede TV">
+    <display-name lang="pt">Rede TV</display-name>
+    <url>http://www.netcombo.com.br</url>
   </channel>
   <channel id="SBT">
     <display-name lang="pt">SBT</display-name>
-    <icon src="http://www.lineup.tv.br/canais/tvlitoralpanorama.gif|http://www.lineup.tv.br/canais/cultura.gif" />
-    <url>http://www.lineup.net.br</url>
+    <url>http://www.netcombo.com.br</url>
   </channel>
   <channel id="COMBATE">
     <display-name lang="pt">COMBATE</display-name>
     <url>http://www.netcombo.com.br</url>
   </channel>
-  <channel id="SPORTV">
-    <display-name lang="pt">SPORTV</display-name>
-    <icon src="http://www.lineup.tv.br/canais/bis.gif" />
-    <url>http://www.lineup.net.br</url>
+  <channel id="SPORTV 3">
+    <display-name lang="pt">SPORTV 3</display-name>
+    <url>http://www.netcombo.com.br</url>
   </channel>
   <channel id="SPORTV 2">
     <display-name lang="pt">SPORTV 2</display-name>
-    <icon src="http://www.lineup.tv.br/canais/tvcamara.gif" />
-    <url>http://www.lineup.net.br</url>
+    <url>http://www.netcombo.com.br</url>
   </channel>
-  <channel id="SPORTV 3">
-    <display-name lang="pt">SPORTV 3</display-name>
-    <icon src="http://www.lineup.tv.br/canais/premiere6.gif" />
-    <url>http://www.lineup.net.br</url>
+  <channel id="SPORTV">
+    <display-name lang="pt">SPORTV</display-name>
+    <url>http://www.netcombo.com.br</url>
   </channel>
-  <programme start="20181204000000 -0400" stop="20181204010000 -0400" channel="COMBATE">
-    <title lang="pt">Best of Pride</title>
+  <programme start="20181205000000 -0400" stop="20181205033000 -0400" channel="COMBATE">
+    <title lang="pt">UFC 218</title>
+    <sub-title lang="pt">Holloway x Aldo 2</sub-title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20181204010000 -0400" stop="20181204020000 -0400" channel="COMBATE">
-    <title lang="pt">Sessão Combate</title>
-    <sub-title lang="pt">Nascidos Para O Combate: Maurício Shogun</sub-title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20181204020000 -0400" stop="20181204030000 -0400" channel="COMBATE">
+  <programme start="20181205033000 -0400" stop="20181205040000 -0400" channel="COMBATE">
     <title lang="pt">Sessão Combate</title>
     <sub-title lang="pt">Viver Para Lutar: Kung Fu (China)</sub-title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20181204030000 -0400" stop="20181204050000 -0400" channel="COMBATE">
-    <title lang="pt">Arena Grappling</title>
-    <sub-title lang="pt">Etapa Rio de Janeiro</sub-title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20181204050000 -0400" stop="20181204060000 -0400" channel="COMBATE">
-    <title lang="pt">Best of Pride</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20181204060000 -0400" stop="20181204070000 -0400" channel="COMBATE">
-    <title lang="pt">UFC Unleashed</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20181204070000 -0400" stop="20181204080000 -0400" channel="COMBATE">
-    <title lang="pt">Sessão Combate</title>
-    <sub-title lang="pt">Nascidos Para O Combate: Maurício Shogun</sub-title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20181204080000 -0400" stop="20181204090000 -0400" channel="COMBATE">
-    <title lang="pt">Sessão Combate</title>
-    <sub-title lang="pt">Viver Para Lutar: Kung Fu (China)</sub-title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20181204090000 -0400" stop="20181204110000 -0400" channel="COMBATE">
+  <programme start="20181205040000 -0400" stop="20181205060000 -0400" channel="COMBATE">
     <title lang="pt">Hora do MMA</title>
-    <sub-title lang="pt">Lidell x Ortiz3</sub-title>
+    <sub-title lang="pt">Brave 18</sub-title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20181204110000 -0400" stop="20181204113000 -0400" channel="COMBATE">
-    <title lang="pt">UFC Series</title>
-    <sub-title lang="pt">Ufc's Greatest Fights: Shogun x Henderson</sub-title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20181204113000 -0400" stop="20181204120000 -0400" channel="COMBATE">
-    <title lang="pt">UFC Series</title>
-    <sub-title lang="pt">Ufc's Greatest Fights: Aldo x Mendes Ep. 2</sub-title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20181204120000 -0400" stop="20181204130000 -0400" channel="COMBATE">
-    <title lang="pt">UFC Unleashed</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20181204130000 -0400" stop="20181204163000 -0400" channel="COMBATE">
-    <title lang="pt">UFC 222</title>
-    <sub-title lang="pt">Cyborg x Kunitskaya</sub-title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20181204163000 -0400" stop="20181204171500 -0400" channel="COMBATE">
-    <title lang="pt">The Ultimate Fighter 28: Heavy Hitters</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20181204171500 -0400" stop="20181204180000 -0400" channel="COMBATE">
-    <title lang="pt">The Ultimate Fighter 28: Heavy Hitters</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20181204180000 -0400" stop="20181204200000 -0400" channel="COMBATE">
-    <title lang="pt">Hora do MMA</title>
-    <sub-title lang="pt">Lidell x Ortiz3</sub-title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20181204200000 -0400" stop="20181204210000 -0400" channel="COMBATE">
-    <title lang="pt">UFC Unleashed</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20181204210000 -0400" stop="20181204213000 -0400" channel="COMBATE">
+  <programme start="20181205060000 -0400" stop="20181205063000 -0400" channel="COMBATE">
     <title lang="pt">UFC Series</title>
     <sub-title lang="pt">UFC Origenes: Brian Ortega</sub-title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20181204213000 -0400" stop="20181204220000 -0400" channel="COMBATE">
+  <programme start="20181205063000 -0400" stop="20181205070000 -0400" channel="COMBATE">
     <title lang="pt">UFC Series</title>
     <sub-title lang="pt">UFC Fight Flashback</sub-title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20181204220000 -0400" stop="20181205000000 -0400" channel="COMBATE">
-    <title lang="pt">Hora do MMA</title>
-    <sub-title lang="pt">Brave 18</sub-title>
+  <programme start="20181205070000 -0400" stop="20181205103000 -0400" channel="COMBATE">
+    <title lang="pt">UFC 218</title>
+    <sub-title lang="pt">Holloway x Aldo 2</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181205103000 -0400" stop="20181205110000 -0400" channel="COMBATE">
+    <title lang="pt">Sessão Combate</title>
+    <sub-title lang="pt">Viver Para Lutar: Kung Fu (China)</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181205110000 -0400" stop="20181205130000 -0400" channel="COMBATE">
+    <title lang="pt">Arena Striking</title>
+    <sub-title lang="pt">WGP 51</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181205130000 -0400" stop="20181205140000 -0400" channel="COMBATE">
+    <title lang="pt">UFC Unleashed</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181205140000 -0400" stop="20181205150000 -0400" channel="COMBATE">
+    <title lang="pt">Sessão Combate</title>
+    <sub-title lang="pt">Nascidos Para O Combate: Maurício Shogun</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181205150000 -0400" stop="20181205160000 -0400" channel="COMBATE">
+    <title lang="pt">Sessão Combate</title>
+    <sub-title lang="pt">Viver Para Lutar: Kung Fu (China)</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181205160000 -0400" stop="20181205180000 -0400" channel="COMBATE">
+    <title lang="pt">Arena Striking</title>
+    <sub-title lang="pt">WGP 51</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181205180000 -0400" stop="20181205190000 -0400" channel="COMBATE">
+    <title lang="pt">The Ultimate Fighter 22</title>
+    <sub-title lang="pt">Team Mcgregor x Team Faber</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181205190000 -0400" stop="20181205200000 -0400" channel="COMBATE">
+    <title lang="pt">The Ultimate Fighter 22</title>
+    <sub-title lang="pt">Team Mcgregor x Team Faber</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181205200000 -0400" stop="20181205210000 -0400" channel="COMBATE">
+    <title lang="pt">The Ultimate Fighter 22</title>
+    <sub-title lang="pt">Team Mcgregor x Team Faber</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181205210000 -0400" stop="20181205220000 -0400" channel="COMBATE">
+    <title lang="pt">The Ultimate Fighter 28: Heavy Hitters</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181205220000 -0400" stop="20181206000000 -0400" channel="COMBATE">
+    <title lang="pt">Arena Striking</title>
+    <sub-title lang="pt">Skaus Combat 4</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181205003000 -0400" stop="20181205020000 -0400" channel="SPORTV 3">
+    <title lang="pt">Liga Nacional de Futsal: Pato Futsal x Atlântico Erechim</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181205020000 -0400" stop="20181205040000 -0400" channel="SPORTV 3">
+    <title lang="pt">Bem, Amigos!</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181205040000 -0400" stop="20181205050000 -0400" channel="SPORTV 3">
+    <title lang="pt">Taça Libertadores da América de Futebol Feminino: Santos x Atlético Huila (COL)</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181205050000 -0400" stop="20181205060000 -0400" channel="SPORTV 3">
+    <title lang="pt">UFC</title>
+    <sub-title lang="pt">Dos Anjos x Usman</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181205060000 -0400" stop="20181205070000 -0400" channel="SPORTV 3">
+    <title lang="pt">UFC: Cigano x Tuivasa</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181205070000 -0400" stop="20181205080000 -0400" channel="SPORTV 3">
+    <title lang="pt">Copa RS de Futebol Sub-20: Toluca (MEX) x Vasco</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181205080000 -0400" stop="20181205090000 -0400" channel="SPORTV 3">
+    <title lang="pt">Copa RS de Futebol Sub-20: Atlético MG x Palmeiras</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181205090000 -0400" stop="20181205103000 -0400" channel="SPORTV 3">
+    <title lang="pt">Prêmio Campeonato Brasileiro 2018</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181205103000 -0400" stop="20181205113000 -0400" channel="SPORTV 3">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Amigos Narciso x Amigos Nenê</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181205113000 -0400" stop="20181205123000 -0400" channel="SPORTV 3">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Fluminense x Atlético PR</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181205123000 -0400" stop="20181205133000 -0400" channel="SPORTV 3">
+    <title lang="pt">Faixa Olímpica</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181205133000 -0400" stop="20181205153000 -0400" channel="SPORTV 3">
+    <title lang="pt">Eliminatórias Copa do Mundo de Basquete Masculino: Brasil x Canadá</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181205153000 -0400" stop="20181205160000 -0400" channel="SPORTV 3">
+    <title lang="pt">NBA Action</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181205160000 -0400" stop="20181205163000 -0400" channel="SPORTV 3">
+    <title lang="pt">Boxe Internacional: Esquiva Falcão x Guido Nicolas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181205163000 -0400" stop="20181205170000 -0400" channel="SPORTV 3">
+    <title lang="pt">Boxe Internacional: Robson Conceição x Joey Laviolette</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181205170000 -0400" stop="20181205180000 -0400" channel="SPORTV 3">
+    <title lang="pt">UFC</title>
+    <sub-title lang="pt">Dos Anjos x Usman</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181205180000 -0400" stop="20181205190000 -0400" channel="SPORTV 3">
+    <title lang="pt">UFC: Cigano x Tuivasa</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181205190000 -0400" stop="20181205200000 -0400" channel="SPORTV 3">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Fluminense x Atlético PR</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181205200000 -0400" stop="20181205220000 -0400" channel="SPORTV 3">
+    <title lang="pt">Giro da Rodada</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181205220000 -0400" stop="20181205230000 -0400" channel="SPORTV 3">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Flamengo x Atlético PR</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181205230000 -0400" stop="20181206000000 -0400" channel="SPORTV 3">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Chapecoense x São Paulo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181205000000 -0400" stop="20181205020000 -0400" channel="SPORTV 2">
+    <title lang="pt">Mundial de Clubes de Vôlei Feminino: Praia Clube x Altay (KAZ)</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181205020000 -0400" stop="20181205040000 -0400" channel="SPORTV 2">
+    <title lang="pt">Mundial de Clubes de Vôlei Masculino</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181205040000 -0400" stop="20181205050000 -0400" channel="SPORTV 2">
+    <title lang="pt">Faixa Olímpica</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181205050000 -0400" stop="20181205053000 -0400" channel="SPORTV 2">
+    <title lang="pt">NBA Action</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181205053000 -0400" stop="20181205073000 -0400" channel="SPORTV 2">
+    <title lang="pt">Eliminatórias Copa do Mundo de Basquete Masculino: Brasil x Canadá</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181205073000 -0400" stop="20181205095000 -0400" channel="SPORTV 2">
+    <title lang="pt">Mundial de Clubes de Vôlei Feminino: Praia Clube x Altay (KAZ)</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181205095000 -0400" stop="20181205100000 -0400" channel="SPORTV 2">
+    <title lang="pt">Pré Jogo</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181205100000 -0400" stop="20181205120000 -0400" channel="SPORTV 2">
+    <title lang="pt">Mundial de Clubes de Vôlei Feminino: Zhejiang (CHN) x Minas</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181205120000 -0400" stop="20181205130000 -0400" channel="SPORTV 2">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Bahia x Cruzeiro</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181205130000 -0400" stop="20181205140000 -0400" channel="SPORTV 2">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Sport x Santos</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181205140000 -0400" stop="20181205150000 -0400" channel="SPORTV 2">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Flamengo x Atlético PR</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181205150000 -0400" stop="20181205160000 -0400" channel="SPORTV 2">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Chapecoense x São Paulo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181205160000 -0400" stop="20181205170000 -0400" channel="SPORTV 2">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Grêmio x Corinthians</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181205170000 -0400" stop="20181205180000 -0400" channel="SPORTV 2">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Atlético MG x Botafogo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181205180000 -0400" stop="20181205193000 -0400" channel="SPORTV 2">
+    <title lang="pt">Prêmio Campeonato Brasileiro 2018</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181205193000 -0400" stop="20181205213000 -0400" channel="SPORTV 2">
+    <title lang="pt">Mundial de Clubes de Vôlei Feminino: Praia Clube x Altay (KAZ)</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181205213000 -0400" stop="20181205220000 -0400" channel="SPORTV 2">
+    <title lang="pt">Baú do Esporte</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181205220000 -0400" stop="20181206000000 -0400" channel="SPORTV 2">
+    <title lang="pt">Mundial de Clubes de Vôlei Feminino: Zhejiang (CHN) x Minas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181205010000 -0400" stop="20181205023000 -0400" channel="SPORTV">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Amigos Narciso x Amigos Nenê</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181205023000 -0400" stop="20181205033000 -0400" channel="SPORTV">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Palmeiras x Vitória</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181205033000 -0400" stop="20181205040000 -0400" channel="SPORTV">
+    <title lang="pt">Baú do Esporte</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181205040000 -0400" stop="20181205050000 -0400" channel="SPORTV">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Grêmio x Corinthians</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181205050000 -0400" stop="20181205060000 -0400" channel="SPORTV">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Atlético MG x Botafogo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181205060000 -0400" stop="20181205071500 -0400" channel="SPORTV">
+    <title lang="pt">Prêmio Campeonato Brasileiro 2018</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181205071500 -0400" stop="20181205081500 -0400" channel="SPORTV">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Fluminense x Atlético PR</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181205081500 -0400" stop="20181205084500 -0400" channel="SPORTV">
+    <title lang="pt">Baú do Esporte</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181205084500 -0400" stop="20181205094500 -0400" channel="SPORTV">
+    <title lang="pt">SporTV News</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181205094500 -0400" stop="20181205120000 -0400" channel="SPORTV">
+    <title lang="pt">Redação SporTV</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181205120000 -0400" stop="20181205124500 -0400" channel="SPORTV">
+    <title lang="pt">É Gol!</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181205124500 -0400" stop="20181205160000 -0400" channel="SPORTV">
+    <title lang="pt">Seleção SporTV</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181205160000 -0400" stop="20181205180000 -0400" channel="SPORTV">
+    <title lang="pt">Copa RS de Futebol Sub-20: Independiente (ARG) x Cruzeiro</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181205180000 -0400" stop="20181205183000 -0400" channel="SPORTV">
+    <title lang="pt">Pré Jogo</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181205183000 -0400" stop="20181205203000 -0400" channel="SPORTV">
+    <title lang="pt">Copa RS de Futebol Sub-20: São Paulo x Flamengo</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181205203000 -0400" stop="20181205211500 -0400" channel="SPORTV">
+    <title lang="pt">Tá na Área</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181205211500 -0400" stop="20181205224500 -0400" channel="SPORTV">
+    <title lang="pt">Pré Jogo</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20181205224500 -0400" stop="20181206004500 -0400" channel="SPORTV">
+    <title lang="pt">Jr Barranquilla (COL) x Atlético PR</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
